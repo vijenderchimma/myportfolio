@@ -326,6 +326,7 @@
 .message-container h3{
   color: #fff;
   margin-bottom: 30px;
+  text-align: center;
 }
 .message-container form label{
   margin-bottom: 10px;
@@ -338,6 +339,7 @@
   justify-content: center;
   align-items: center;
   color: #fff;
+  flex-wrap: wrap;
 }
 
 .icon {
